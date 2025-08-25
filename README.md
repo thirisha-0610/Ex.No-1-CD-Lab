@@ -24,7 +24,7 @@ To write a C program to implement a symbol table.
 # PROGRAM:
 
 # OUTPUT:
-
+1
 # RESULT:
 
 The program to implement a symbol table is executed and the output is verified.
